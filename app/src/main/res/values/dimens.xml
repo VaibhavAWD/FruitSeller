@@ -11,4 +11,13 @@
     <dimen name="login_edt_password_margin_top">16dp</dimen>
     <dimen name="login_btn_login_margin_top">16dp</dimen>
     <dimen name="login_btn_forgot_password_margin_top">12dp</dimen>
+
+    <!--  Register Activity  -->
+    <dimen name="register_container_padding">16dp</dimen>
+    <dimen name="register_logo">56dp</dimen>
+    <dimen name="register_edt_username_margin_top">32dp</dimen>
+    <dimen name="register_edt_email_margin_top">16dp</dimen>
+    <dimen name="register_edt_password_margin_top">16dp</dimen>
+    <dimen name="register_btn_register_margin_top">16dp</dimen>
+    <dimen name="register_btn_have_account_margin_top">16dp</dimen>
 </resources>
