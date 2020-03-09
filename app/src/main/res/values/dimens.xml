@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  edt_bg  -->
+    <dimen name="edt_box_stroke_width">1dp</dimen>
+    <dimen name="edt_box_corner_radius">9dp</dimen>
+
+    <!--  Login Activity  -->
+    <dimen name="login_container_padding">16dp</dimen>
+    <dimen name="login_edt_username_margin_top">32dp</dimen>
+    <dimen name="login_logo">56dp</dimen>
+    <dimen name="login_edt_password_margin_top">16dp</dimen>
+    <dimen name="login_btn_login_margin_top">16dp</dimen>
+    <dimen name="login_btn_forgot_password_margin_top">12dp</dimen>
+</resources>
